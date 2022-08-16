@@ -1032,3 +1032,5 @@ function findPositiveNumber(randomNumberArray){
 }
 const arrayRandomNumber = [23, 53, 0, 23, 54, 8, 323, 435, 354, 56, -34, 43, -72, 5, 456, 345];
 console.log(findPositiveNumber(arrayRandomNumber));
+
+// Done

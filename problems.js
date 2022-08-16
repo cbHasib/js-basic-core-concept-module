@@ -16,6 +16,11 @@ Exersice-1:
 //  console.log(findOddEven(532));
 
 
+
+
+
+
+
 // Has No return
  function findOddEvenNoReturn(checkNum){
     if(checkNum%2==0){
